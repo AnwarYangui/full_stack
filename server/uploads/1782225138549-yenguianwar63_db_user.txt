@@ -1,0 +1,8 @@
+yenguianwar63_db_user 
+motpass :mongodb+srv://yenguianwar63_db_user:WtflIQy0LQvyMqWW@cluster0.t8c6gbx.mongodb.net/
+
+db_username>
+smongodb+srv://<db_username>:5g3X6wpbnhesPNb5@backend.ozvxgnt.mongodb.net/
+
+mongodb+srv://yenguianwar63_db_user:<db_password>@backend.ozvxgnt.mongodb.net/?appName=backend
+
